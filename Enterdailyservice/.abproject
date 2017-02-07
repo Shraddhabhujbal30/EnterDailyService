@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Enterdailyservice",
+  "ProjectGuid": "705754e5-7abe-4563-9d2a-493f78250de5",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Enterdailyservice",
+  "DisplayName": "Enterdailyservice",
+  "Author": "",
+  "Description": "Enterdailyservice",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{ed375e51-dae8-4c75-9be7-3cd57404a6eb}",
+  "WP8ProductID": "{18a428bb-e374-41a1-a37f-33d01fc2fb9f}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Enterdailyservice",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
